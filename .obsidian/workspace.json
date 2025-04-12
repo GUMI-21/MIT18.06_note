@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Unit1 Ax=b and the Four Subspace/LEC5 Transposes, Permutations, Space.pdf"
+                "file": "汉王扫描 2025-04-12 15.41.17.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "LEC5 Transposes, Permutations, Space"
+              "title": "汉王扫描 2025-04-12 15.41.17"
             }
           }
         ]
@@ -42,7 +42,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 303.5
   },
   "right": {
     "id": "7e7cae36725bbbd4",
@@ -158,23 +158,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "d2d9226ef058fad6",
+  "active": "045c967350d98283",
   "lastOpenFiles": [
+    "Unit1 Ax=b and the Four Subspace/LEC6 Column Space and Nullspace.pdf",
+    "Unit1 Ax=b and the Four Subspace/LEC5 Transposes, Permutations, Space.pdf",
     "Unit1 Ax=b and the Four Subspace/LEC4 Factorization into A=LU.pdf",
     "Unit1 Ax=b and the Four Subspace/LEC3 Multiplication and inverse Matrices.pdf",
     "Unit1 Ax=b and the Four Subspace/LEC2 Elimination with Matrices.pdf",
     "Unit1 Ax=b and the Four Subspace/LEC1 Overview.pdf",
     "Unit1 Ax=b and the Four Subspace",
-    "汉王扫描 2025-04-12 15.40.38.pdf",
-    "Unit1 Ax=b and the Four Subspace/LEC5 Transposes, Permutations, Space.pdf",
     "汉王扫描 2025-04-12 16.09.04.pdf",
     "汉王扫描 2025-04-12 16.06.38.pdf",
     "汉王扫描 2025-04-12 16.02.41.pdf",
