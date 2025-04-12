@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "fd93d8c1ddbd4de9",
+    "type": "split",
+    "children": [
+      {
+        "id": "61ac74bff5ad3947",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "045c967350d98283",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Unit1 Ax=b and the Four Subspace/LEC5 Transposes, Permutations, Space.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LEC5 Transposes, Permutations, Space"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ab909cea4466ffe",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdcf0c79b297ac32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2d9226ef058fad6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "0d78f971e5576ffa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "66b7b06a8da61ac5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7e7cae36725bbbd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b3442da5222b5e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2422fe6baffaee1c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unit1 Ax=b and the Four Subspace/LEC5 Transposes, Permutations, Space.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "LEC5 Transposes, Permutations, Space 的反向链接列表"
+            }
+          },
+          {
+            "id": "a934d139325a4081",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Unit1 Ax=b and the Four Subspace/LEC5 Transposes, Permutations, Space.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "LEC5 Transposes, Permutations, Space 的出链列表"
+            }
+          },
+          {
+            "id": "e1efdb8a6335fa72",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "ec149506089fb574",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Unit1 Ax=b and the Four Subspace/LEC5 Transposes, Permutations, Space.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "LEC5 Transposes, Permutations, Space 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d2d9226ef058fad6",
+  "lastOpenFiles": [
+    "Unit1 Ax=b and the Four Subspace/LEC4 Factorization into A=LU.pdf",
+    "Unit1 Ax=b and the Four Subspace/LEC3 Multiplication and inverse Matrices.pdf",
+    "Unit1 Ax=b and the Four Subspace/LEC2 Elimination with Matrices.pdf",
+    "Unit1 Ax=b and the Four Subspace/LEC1 Overview.pdf",
+    "Unit1 Ax=b and the Four Subspace",
+    "汉王扫描 2025-04-12 15.40.38.pdf",
+    "Unit1 Ax=b and the Four Subspace/LEC5 Transposes, Permutations, Space.pdf",
+    "汉王扫描 2025-04-12 16.09.04.pdf",
+    "汉王扫描 2025-04-12 16.06.38.pdf",
+    "汉王扫描 2025-04-12 16.02.41.pdf",
+    "汉王扫描 2025-04-12 16.02.14.pdf",
+    "README.md"
+  ]
+}
